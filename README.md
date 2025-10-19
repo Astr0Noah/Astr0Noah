@@ -9,9 +9,9 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/nooh-ahmed-657611372/)
 Fun facts:
 - Mechanical engineering major
 - Python & Java enthusiast
-- Microcontroller hobbyist
+- Love to read comic books
 - Basketball fan (go Lakers!)
-- Chess player
+- Profiecient in French
 
 Let’s build something cool!
 

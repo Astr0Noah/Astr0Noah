@@ -1,6 +1,6 @@
 Hi, I’m Nooh 👋
 
-I’m a mechanical engineering student with a knack for Python and Java (still working on my “good” projects—stay tuned!). I enjoy figuring things out, building stuff, and especially working with microcontrollers.
+I’m a mechanical engineering student with a knack for Python and Java (still working on my “good” projects..stay tuned!). I enjoy figuring things out, building stuff, and especially working with microcontrollers.
 
 Outside of tech, you’ll usually find me on the basketball court, catching NBA games (Lakers in 5 ✋), or playing a game of chess.
 
